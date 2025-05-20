@@ -1,2 +1,2 @@
 # Terraform
-devops terraform project and assignments
+terraform project and assignments
